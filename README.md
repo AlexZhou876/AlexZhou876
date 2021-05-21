@@ -3,7 +3,7 @@
 
 ## About
 I am a second year Business and Computer science student at the University of British Columbia who is passionate about programming.
-I like the creative and problem-solving aspects of programming, and like to make sure that my projects are useful, whether for others or just for my own education and enjoyment. Currently seeking an internship for summer 2021.
+I like the creative and problem-solving aspects of programming, and like to make sure that my projects are useful, whether for others or just for my own education and enjoyment. I am currently seeking an internship for fall 2021.
 
 ## Current Projects
  * **Meetable**, a web and mobile app which helps university students find compatible friend groups based on interests. I'm primarily involved with Nodejs, Express, Mongoose, but am also learning React.
