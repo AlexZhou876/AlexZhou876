@@ -6,7 +6,7 @@ I am a second year Business and Computer science student at the University of Br
 I like the creative and problem-solving aspects of programming, and like to make sure that my projects are useful, whether for others or just for my own education and enjoyment. I am currently seeking an internship for fall 2021.
 
 ## Current Projects
- * **Meetable**, a web and mobile app which helps university students find compatible friend groups based on interests. I'm primarily involved with Nodejs, Express, Mongoose, but am also learning React.
+ * **Meetable**, a web and mobile app which helps university students find compatible friend groups based on interests. I'm primarily involved with Nodejs, Express, Mongoose, but am also learning React. Recently we have renovated our backend with AWS Amplify and GraphQL, so I am learning those.
  * **music-editor**, a GUI-based editor for intrumental music capable of MIDI sequencing and IO
  * Planning a small project which will run and render an n-body simulation
  
