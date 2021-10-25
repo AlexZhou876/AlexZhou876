@@ -2,7 +2,7 @@
 <h1> Hi, I'm Alex!</h1>
 
 ## About
-I am a second year Business and Computer science student at the University of British Columbia who is passionate about programming. I am currently a TA and a summer WorkLearn student at the Emerging Media Lab (EML).
+I am a third year Business and Computer science student at the University of British Columbia who is passionate about programming. I am currently a TA and a summer WorkLearn student at the Emerging Media Lab (EML).
 I like the creative and problem-solving aspects of programming, and like to make sure that my projects are useful, whether for others or just for my own education and enjoyment. I am currently seeking an internship for fall 2021.
 
 ## Current Projects
