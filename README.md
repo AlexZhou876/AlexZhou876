@@ -3,7 +3,7 @@
 
 ## About
 I am a third year Business and Computer science student at the University of British Columbia who is passionate about programming. I am currently a Software Engineer Intern at Samsung Electronics working on full stack development of web portals for Samsung Knox.
-I like the creative and problem-solving aspects of programming, and like to make sure that my projects are useful, whether for others or just for my own education and enjoyment. I am currently seeking an internship for summer 2022.
+I enjoy the creative and problem-solving aspects of programming, and like to make sure that my projects are useful, whether for others or just for my own education and enjoyment. I am currently seeking an internship for summer 2022.
 
 ## Recent Projects
  * **Meetable**, a web and mobile app which helps university students find compatible friend groups based on interests. I'm primarily involved with Nodejs, Express, Mongoose, but am also learning React. Recently we have renovated our backend with AWS Amplify and GraphQL, so I am learning those.
